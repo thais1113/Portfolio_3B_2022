@@ -1,4 +1,14 @@
+# Sumário
+
+git init.
+git add <Programa-oDeAplicativos>
+git commit -m "a"
+git remote add origin https://github.com/thais1113/Programa-oDeAplicativos.git
+git push -u origin master.
+git push origin master.
+
 https://github.com/thais1113/Programa-oDeAplicativos.git
+
 
 https://github.com/thais1113/ModelagemDeSistemas.git
 
